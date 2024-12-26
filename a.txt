@@ -1,6 +1,31 @@
 #include<stdio.h>
+<<<<<<< HEAD
 int main()
 {
 int a=10,b=20,c;
 printf("result %d",c);
 }
+=======
+<<<<<<< HEAD
+int x;
+int main()
+{
+if(x%2==0)
+{
+printf("the number is even");
+}
+else
+{
+printf("the number is odd");
+}
+}
+=======
+int main()
+{
+ int a=10,b=20;
+ int result=0;
+ result=a+b;
+ printf("Result=%d",result);
+ }
+>>>>>>> b5b63721cb75dbd446f525120e42131fe14693b3
+>>>>>>> 4a62e19bcff847a26cbb26f7edd81a710474d7f0
